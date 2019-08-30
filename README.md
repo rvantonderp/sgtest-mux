@@ -1,3 +1,6 @@
+FORK_SENTINEL
+
+
 # gorilla/mux
 
 [![GoDoc](https://godoc.org/github.com/gorilla/mux?status.svg)](https://godoc.org/github.com/gorilla/mux)
